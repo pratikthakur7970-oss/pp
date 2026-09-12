@@ -21,6 +21,7 @@ print("Coordinates (Tuple):", coordinates)
 #Dictionary data type 
 person = {"name": "Rudra", "age": 25} 
 print("Person (Dictionary):", person)
+a=10
 
 # Set data type 
 colors = {"Red", "Green", "Blue"}
@@ -30,3 +31,8 @@ print("Colors (Set):", colors)
 
 is_adult = True 
 print("Is Adult (Boolean):", is_adult)
+
+
+a=10
+b=20
+c=a+b
